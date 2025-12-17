@@ -15,10 +15,3 @@ python -m venv .venv
 ollama pull phi3:mini
 
 
-
-
-
-
-
-
-<img width="742" height="145" alt="image" src="https://github.com/user-attachments/assets/04cf93bc-2d66-44de-bcd9-abdb87ae52e6" />
