@@ -1,0 +1,8 @@
+RAG stands for Retrieval Augmented Generation.
+It enhances LLM responses by injecting external knowledge at query time.
+
+Large Language Models do not have access to private or real-time data by default.
+RAG solves this by retrieving relevant documents at question time.
+
+Embeddings are numerical representations of text used for semantic search.
+A vector database stores embeddings and enables similarity search.
