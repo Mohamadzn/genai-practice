@@ -39,6 +39,3 @@ Each agent has:
 
 No cloud APIs are used.
 
----
-
-## 📁 Project Structure
