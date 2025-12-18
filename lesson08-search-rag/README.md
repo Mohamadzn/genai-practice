@@ -40,4 +40,3 @@ No cloud services. No API costs.
 
 ---
 
-## 📂 Project Structure
