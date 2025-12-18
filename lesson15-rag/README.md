@@ -20,4 +20,3 @@ This project implements the **Lesson 15 assignment** from the
 
 ---
 
-## Project Structure
