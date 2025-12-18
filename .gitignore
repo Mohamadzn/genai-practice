@@ -35,5 +35,10 @@ index.jsonl
 # Ollama / local data
 *.bin
 
+
+
+# Vector index (generated)
+faiss_index/
+
 # Node (if ever used)
 node_modules/
